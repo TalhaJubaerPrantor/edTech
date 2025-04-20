@@ -41,7 +41,7 @@ const App = () => {
                   </RequiredAuth>
                }
             />
-            {/* <Route path="checkout/:courseId" element={isTrue ? <Checkout /> : navigate('/login')} /> */}
+            <Route path="checkout/:courseId" element={isTrue ? <Checkout /> : navigate('/login')} /> 
             <Route path="/login" element={<LoginPage />} /> 
             <Route path="/login" element={<Home />} />
             <Route path="/blogs" element={<Blogs />} />
