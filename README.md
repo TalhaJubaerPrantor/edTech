@@ -1,5 +1,5 @@
 <h1> EdTech project </h1>
-Live demo:  <a href="https://ed-tech-flax.vercel.app/"/>
+Live demo:  <a href="https://ed-tech-flax.vercel.app/"> Click Here </a>
 
 Project is contributed by:
 <h4> Talha Jubaer Prantor </h4>
