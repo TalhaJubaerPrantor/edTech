@@ -2,11 +2,11 @@
 Live demo: <a src="https://ed-tech-flax.vercel.app/"/>
 
 Project is contributed by:
-<h2> Talha Jubaer Prantor </h2>
-<h2> Jafrin Nahar Rodoshi </h2>
-<h2> Zannatun Nayem Fahima </h2>
-<h2> Safin Ahmed Efty </h2>
-<h2> Robiul Islam </h2>
+<h4> Talha Jubaer Prantor </h4>
+<h4> Jafrin Nahar Rodoshi </h4>
+<h4> Zannatun Nayem Fahima </h4>
+<h4> Safin Ahmed Efty </h4>
+<h4> Robiul Islam </h4>
 
 
 
