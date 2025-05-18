@@ -18,7 +18,7 @@ const Courses = () => {
                <div className="flex flex-wrap">{courses.length > 0 && courses.map((course) => <SingleCourse key={course.id} course={course} />)}</div>
             </div>
          </section>
-         {/* <SingleCourse/> */}
+         <SingleCourse/> 
       </div>
    );
 };
