@@ -18,7 +18,7 @@ const SingleCourse = ({ course }) => {
                <p className="leading-relaxed mb-3">{course?.description}</p>
                <div className="flex justify-between flex-wrap">
                   <button 
-                  //onClick={() => buyCourse(course.id)} 
+                  onClick={() => buyCourse(course?.id)} 
                   className="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">
                      Buy Now
                      <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round">
