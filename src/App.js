@@ -17,8 +17,8 @@ import Contact from './pages/Contact/Contact';
  *
  */
 const App = () => {
-   // const isTrue = true;
-   // const navigate = useNavigate();
+    const isTrue = true;
+    const navigate = useNavigate();
 
    return (
       <>
@@ -47,7 +47,7 @@ const App = () => {
             <Route path="/blogs" element={<Blogs />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/courses" element={<Courses />} />
-            {/* <Route path="/register" element={<RegisterPage />} /> */}
+            <Route path="/register" element={<RegisterPage />} /> 
             <Route path="/register" element={<Home />} />
             <Route path="*" element={<h1>404</h1>} />
          </Routes>
