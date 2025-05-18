@@ -17,7 +17,7 @@ import Contact from './pages/Contact/Contact';
  *
  */
 const App = () => {
-   // const isTrue = false;
+   // const isTrue = true;
    // const navigate = useNavigate();
 
    return (
