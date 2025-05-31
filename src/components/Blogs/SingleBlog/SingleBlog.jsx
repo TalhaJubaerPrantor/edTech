@@ -12,7 +12,7 @@ const SingleBlog = ({ blog }) => {
                <h1 className="title-font text-lg font-medium text-gray-900 mb-3">{blog?.title}</h1>
                <p className="leading-relaxed mb-3">{blog?.description}</p>
                <div className="flex items-center flex-wrap">
-                  <button onClick={() => navigate(`/blogs`)} className="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">
+                  <button onClick={() => navigate(`/blogs/read`)} className="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">
                      Read More
                      <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round">
                         <path d="M5 12h14"></path>

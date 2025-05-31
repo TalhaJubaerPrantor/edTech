@@ -10,6 +10,7 @@ import Blogs from './components/Blogs/Blogs';
 import Courses from './components/Courses/Courses';
 import { Toaster } from 'react-hot-toast';
 import Contact from './pages/Contact/Contact';
+import BlogDetails from './components/Blogs/BlogDetails';
 /**
  * add browser router,
  * Routes and route path, element,
@@ -45,6 +46,7 @@ const App = () => {
             <Route path="/login" element={<LoginPage />} /> 
             <Route path="/login" element={<Home />} />
             <Route path="/blogs" element={<Blogs />} />
+            <Route path="/blogs/read" element={<BlogDetails/>} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/courses" element={<Courses />} />
             <Route path="/register" element={<RegisterPage />} /> 
