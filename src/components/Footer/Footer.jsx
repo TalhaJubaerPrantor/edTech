@@ -11,18 +11,6 @@ const Footer = () => {
                      <li>
                         <a style={{fontSize:"20px"}} className="text-gray-600 hover:text-gray-800">Talha Jubaer Prantor</a>
                      </li>
-                     <li>
-                        <a style={{fontSize:"20px"}} className="text-gray-600 hover:text-gray-800">Jafrin Nahar Rodoshi</a>
-                     </li>
-                     <li>
-                        <a style={{fontSize:"20px"}} className="text-gray-600 hover:text-gray-800">Zannatun Nayem Fahima</a>
-                     </li>
-                     <li>
-                        <a style={{fontSize:"20px"}} className="text-gray-600 hover:text-gray-800">Safin Ahmed Efty</a>
-                     </li>
-                     <li>
-                        <a style={{fontSize:"20px"}} className="text-gray-600 hover:text-gray-800">Robiul Islam</a>
-                     </li>
                   </nav>
                </div>
                <div className="lg:w-1/4 md:w-1/2 w-full px-4">
